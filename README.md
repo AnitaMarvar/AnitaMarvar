@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnitaMarvar
-- 👀 I’m interested in developing android apps
+- 👀 I’m interested in relearn and unlearn.
 - 🌱 I'm a coding enthusiast
 - 💞️ I’m looking to collaborate on various applications
 - 📫 
